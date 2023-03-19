@@ -193,8 +193,8 @@ void write_mme_file(const std::wstring& file_path, const std::vector<Triangle>& 
 
 int main() {
     std::vector<Triangle> triangles;
-    std::string stl_file_path = "C:\\Users\\suriy\\OneDrive\\Desktop\\MME\\0333.stl";
-    std::wstring mme_file_path = L"C:\\Users\\suriy\\OneDrive\\Desktop\\MME\\test.mme";
+    std::string stl_file_path = "0333.stl";
+    std::wstring mme_file_path = L"test.mme";
 
     //try {
     //    // Read the ASCII STL file
